@@ -1,2 +1,4 @@
 # RealTime-IoT-Elderly-Healthcare-System
 Real-time IoT healthcare monitoring system for elderly patients using Arduino Uno, ESP8266, ECG, pulse, and temperature sensors with cloud monitoring, alerts, and medication reminder support.
+The Real-Time 5G-Enabled IoT System for Elderly Health Monitoring and Medication Dispensing is an intelligent healthcare solution designed to improve the safety, independence, and well-being of elderly individuals. The system continuously monitors vital health parameters, provides automated medication reminders, and enables remote patient monitoring through IoT connectivity.
+By integrating biomedical sensors, embedded systems, cloud technology, and 5G-enabled communication, the system ensures real-time health supervision and timely medical assistance for elderly patients living independently or in assisted care environments.
